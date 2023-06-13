@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "👺 New task commit to Python project 3"
+git push
